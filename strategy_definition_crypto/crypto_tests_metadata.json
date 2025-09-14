@@ -1,0 +1,8 @@
+{
+    "test_date": "2025-09-14",
+    "signal_discovery_strategy": "ema_814_conf3",
+    "default_parameters": "default_params_821.json",
+    "timeframes": "original",
+    "confirmation_strategy":"baseline_lc_m",
+    "additional_info": ""
+}

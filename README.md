@@ -1,1 +1,2 @@
-# ml_cross_based_crypto_trading
+# Crypto Trading: ML predictions to detect trades
+Detecting Signals witn EMA crosses and confirming it using ML model.
