@@ -4,105 +4,120 @@
     "date_added": "2025-09-07",
     "company_name": "Bitcoin",
     "sector": "Cryptocurrency",
-    "industry": "Digital Assets"
+    "industry": "Digital Assets",
+    "coin_geko_name": "bitcoin"
   },
   "ETH": {
     "group": "large_cap_tech",
     "date_added": "2025-09-07",
     "company_name": "Ethereum",
     "sector": "Cryptocurrency",
-    "industry": "Smart Contracts"
+    "industry": "Smart Contracts",
+    "coin_geko_name": "ethereum"
   },
   "SOL": {
     "group": "large_cap_tech",
     "date_added": "2025-09-07",
     "company_name": "Solana",
     "sector": "Cryptocurrency",
-    "industry": "Blockchain"
+    "industry": "Blockchain",
+    "coin_geko_name": "solana"
   },
   "XRP": {
     "group": "large_cap_tech",
     "date_added": "2025-09-07",
     "company_name": "Ripple",
     "sector": "Cryptocurrency",
-    "industry": "Digital Payments"
+    "industry": "Digital Payments",
+    "coin_geko_name": "ripple"
   },
   "AVAX": {
     "group": "large_cap_tech",
     "date_added": "2025-09-07",
     "company_name": "Avalanche",
     "sector": "Cryptocurrency",
-    "industry": "Blockchain"
+    "industry": "Blockchain",
+    "coin_geko_name": "avalanche"
   },
   "NEAR": {
     "group": "moderate_midcap",
     "date_added": "2025-09-07",
     "company_name": "Near Protocol",
     "sector": "Cryptocurrency",
-    "industry": "Blockchain"
+    "industry": "Blockchain",
+    "coin_geko_name": "near"
   },
    "INJ": {
     "group": "moderate_midcap",
     "date_added": "2025-09-07",
     "company_name": "Injective Protocol",
     "sector": "Cryptocurrency",
-    "industry": "Decentralized Finance"
+    "industry": "Decentralized Finance",
+    "coin_geko_name": "injective"
   },
    "RNDR": {
     "group": "moderate_midcap",
     "date_added": "2025-09-07",
     "company_name": "Render Token",
     "sector": "Cryptocurrency",
-    "industry": "Decentralized Computing"
+    "industry": "Decentralized Computing",
+    "coin_geko_name": "render-token"
   },
    "TIA": {
     "group": "moderate_midcap",
     "date_added": "2025-09-07",
     "company_name": "Theta Token",
     "sector": "Cryptocurrency",
-    "industry": "Decentralized Video"
+    "industry": "Decentralized Video",
+    "coin_geko_name": "theta-token"
   },
    "ONDO": {
     "group": "moderate_midcap",
     "date_added": "2025-09-07",
     "company_name": "Ondo Finance",
     "sector": "Cryptocurrency",
-    "industry": "Decentralized Finance"
+    "industry": "Decentralized Finance",
+    "coin_geko_name": "ondo-finance"
   },
   "WIF": {
     "group": "emerging_volatile",
     "date_added": "2025-09-07",
     "company_name": "Wifey Finance",
     "sector": "DeFi",
-    "industry": "Decentralized Finance"
+    "industry": "Decentralized Finance",
+    "coin_geko_name": "wifey-finance"
   },
   "PEPE": {
     "group": "emerging_volatile",
     "date_added": "2025-09-07",
     "company_name": "Pepe Coin",
     "sector": "Meme Coin",
-    "industry": "Cryptocurrency"
+    "industry": "Cryptocurrency",
+    "coin_geko_name": "pepe"
   },
    "JUP": {
     "group": "emerging_volatile",
     "date_added": "2025-09-07",
     "company_name": "Jupiter",
     "sector": "DeFi",
-    "industry": "Decentralized Finance"
+    "industry": "Decentralized Finance",
+    "coin_geko_name": "jupiter"
   },
    "PENDLE": {
     "group": "emerging_volatile",
     "date_added": "2025-09-07",
     "company_name": "Pendle",
     "sector": "DeFi",
-    "industry": "Decentralized Finance"
+    "industry": "Decentralized Finance",
+    "coin_geko_name": "pendle"
   },
    "SEI": {
     "group": "emerging_volatile",
     "date_added": "2025-09-07",
     "company_name": "Sei Network",
     "sector": "Blockchain",
-    "industry": "Decentralized Exchange"
+    "industry": "Decentralized Exchange",
+    "coin_geko_name": "sei"
   }
   
 
